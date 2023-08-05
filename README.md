@@ -1,6 +1,7 @@
 [logo](https://github.com/aalianawa/aalianawa/blob/main/istockphoto-537331500-612x612.jpg)
 <h1 align="center">Hi 👋, I'm Aalia Nawaz</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img align="right" alt="coding" src="https://steamcommunity.com/sharedfiles/filedetails/?id=2217383700.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalianawa&label=Profile%20views&color=0e75b6&style=flat" alt="aalianawa" /> </p>
 
